@@ -3,7 +3,7 @@
 
 
 ## Kнопкa «все-в-одном» с функцией запроса обратного вызова :fire:
-:earth_asia: Cайт : http://codbox.ru
+:earth_asia: Cайт Demo : https://sinups.github.io/social-callback/
 
 :boy:   Автор : [ A K ](https://www.instagram.com/webtheory/ "Instagram page")
 
