@@ -9,7 +9,7 @@
 
 ## 
 
-![ScreenShot](https://github.com/sinups/social-callback/blob/master/src/img/prew_1.png)
+![ScreenShot](https://github.com/sinups/social-callback/blob/master/src/img/prew_1.gif)
 
 ## Стартовый репозиторий .
 Установка: `npm i`.
